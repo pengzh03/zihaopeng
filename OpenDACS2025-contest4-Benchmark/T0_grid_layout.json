@@ -1,0 +1,21 @@
+{
+    "grid_info": {
+        "grid_length": 5,
+        "grid_max_width": 500,
+        "grid_max_height": 500
+    },
+    "bottom_layer": [
+        {
+            "c4_name": "b1_1",
+            "grid_coord_x": 30,
+            "grid_coord_y": 40
+        },
+        {
+            "c4_name": "b1_2",
+            "grid_coord_x": 140,
+            "grid_coord_y": 340
+        }
+    ],
+    "top_layer": [
+    ]
+}

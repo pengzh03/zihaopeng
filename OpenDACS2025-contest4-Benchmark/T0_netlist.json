@@ -1,0 +1,20 @@
+{
+    "net_count": 1,
+    "nets": [
+        {
+            "net_name": "net1",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b1_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b1_2"
+                }
+            ]
+        }
+    ]
+}

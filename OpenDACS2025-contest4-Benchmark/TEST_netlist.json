@@ -1,0 +1,185 @@
+{
+    "net_count": 12,
+    "nets": [
+        {
+            "net_name": "net1",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b1_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b1_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net2",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b2_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b2_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net3",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b3_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b3_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net4",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b4_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b4_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net5",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b5_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b5_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net6",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b6_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b6_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net7",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b7_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b7_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net8",
+            "net_type": 1,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 1,
+                    "bump_name": "b8_1"
+                },
+                {
+                    "bump_type": 1,
+                    "bump_name": "b8_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net9",
+            "net_type": 2,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 2,
+                    "bump_name": "t1_1"
+                },
+                {
+                    "bump_type": 2,
+                    "bump_name": "t1_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net10",
+            "net_type": 2,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 2,
+                    "bump_name": "t2_1"
+                },
+                {
+                    "bump_type": 2,
+                    "bump_name": "t2_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net11",
+            "net_type": 2,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 2,
+                    "bump_name": "t3_1"
+                },
+                {
+                    "bump_type": 2,
+                    "bump_name": "t3_2"
+                }
+            ]
+        },
+        {
+            "net_name": "net12",
+            "net_type": 2,
+            "bump_count": 2,
+            "bumps": [
+                {
+                    "bump_type": 2,
+                    "bump_name": "t4_1"
+                },
+                {
+                    "bump_type": 2,
+                    "bump_name": "t4_2"
+                }
+            ]
+        }
+    ]
+}
